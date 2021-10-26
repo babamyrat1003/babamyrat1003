@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- :zap: I love math, programming, data science, and books
+- 🌱 I’m addicted to learning and growing every day
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
+- 📫 How to find me: 
+  - :email: babamyratnurgeldiyev@gmail.com 
+  - :bulb: [Medium articles](https://medium.com/@babamyratnurgeldiyev_96773)
+  - :office: [LinkedIn](https://www.linkedin.com/in/babamyrat-nurgeldiyew-2808b91ab/)
 <!--
 **babamyrat1003/babamyrat1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
