@@ -5,7 +5,9 @@
 - 📫 How to find me: 
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/babamyrat-nurgeldiyev-2808b91ab)
 &nbsp;
- [![Babamyrat's github stats](https://github-readme-stats.vercel.app/api?username=babamyrat1003&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/babamyrat1003/github-readme-stats) 
+
+
+<!-- [![Babamyrat's github stats](https://github-readme-stats.vercel.app/api?username=babamyrat1003&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/babamyrat1003/github-readme-stats) 
  
  
 
